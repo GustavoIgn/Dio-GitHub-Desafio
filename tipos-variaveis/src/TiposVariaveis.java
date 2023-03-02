@@ -9,7 +9,7 @@ public class TiposVariaveis {
         float pi = 3.1415F;
         double salario = 1350.75;
         boolean a = true;
-        char; (sem exemplo por agora)
+        char sexo = 'M';
 
         */
 
